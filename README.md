@@ -1,5 +1,4 @@
-## Budget Tracker
-```
+# Budget Tracker
 It will keep track of your expenditure and earnings
 
 ## Usage
